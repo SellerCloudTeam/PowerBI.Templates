@@ -1,2 +1,2 @@
 # PowerBI.Templates
-PowerBI.Templates
+SellerCloud's new PowerBI integration adds Microsoft PowerBI to your SellerCloud experience.
