@@ -4,6 +4,8 @@
 This repository ("PowerBI.Templates") is where we (SellerCloud) develop the SellerCloud / PowerBI integration platform.
 SellerCloud's new PowerBI integration adds Microsoft's PowerBI analytics capabilities to your SellerCloud experience.
 
+## Documentation
+ [pdf](https://github.com/SellerCloudTeam/PowerBI.Templates/tree/master/Sales)
 
 ## Sales Template
  File | Description | Version | Updated
