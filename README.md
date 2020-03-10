@@ -10,9 +10,9 @@ SellerCloud's new PowerBI integration adds Microsoft's PowerBI analytics capabil
 
 
 ## Sales Template
- File | Description | Version | Updated
-|---|---|---|---|
-| [Sales-Version-1.0.0.1.pbit](https://github.com/SellerCloudTeam/PowerBI.Templates/blob/master/Sales/Sales-Version-1.0.0.1.pbit) | Initial version of Sales Template | 1.0.0.1 | 3/8/2020 |
+ File | Description | Version | DBVS | Updated
+|---|---|---|---|---|
+| [Sales-Version-1.0.0.1.pbit](https://github.com/SellerCloudTeam/PowerBI.Templates/blob/master/Sales/Sales-Version-1.0.0.1.pbit) | Initial version of Sales Template | 1.0.0.1 | 8836 | 3/8/2020 |
 
 ## License
 Copyright (c) SellerCloud. All rights reserved.
