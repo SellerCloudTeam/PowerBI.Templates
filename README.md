@@ -18,4 +18,4 @@ SellerCloud's new PowerBI integration adds Microsoft's PowerBI analytics capabil
 ## License
 Copyright (c) SellerCloud. All rights reserved.
 
-Licensed under the MIT license.
+Licensed under the MIT  license.
